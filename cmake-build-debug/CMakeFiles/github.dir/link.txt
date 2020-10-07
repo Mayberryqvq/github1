@@ -1,0 +1,3 @@
+"D:\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\github.dir/objects.a
+C:\Users\DAYLIG~1\DOCUME~1\TENCEN~1\267322~1\FileRecv\MinGW\bin\ar.exe cr CMakeFiles\github.dir/objects.a @CMakeFiles\github.dir\objects1.rsp
+C:\Users\DAYLIG~1\DOCUME~1\TENCEN~1\267322~1\FileRecv\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\github.dir/objects.a -Wl,--no-whole-archive  -o github.exe -Wl,--out-implib,libgithub.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\github.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/daylightz/CLionProjects/github/cmake-build-debug/CMakeFiles/github.dir
+C:/Users/daylightz/CLionProjects/github/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/daylightz/CLionProjects/github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
